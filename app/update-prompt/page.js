@@ -55,7 +55,7 @@ const UpdatePrompt = () => {
 
   return (
     <Form
-      type='Update'
+      type='Edit'
       post={post}
       setPost={setPost}
       submitting={submitting}
